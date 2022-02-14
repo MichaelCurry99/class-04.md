@@ -1,1 +1,3 @@
-# class-04.md
+# Links, Functions, and Layouts
+
+If you ever used a searching browse, you should realize that using them provides millions of links to the World internet. With links, we can access information in which a library may not be capable of having, since he can have a limited capacity. The way these links work is by the use of the elements "<a>" and "<li>". These two hold up the link in order to take you to the website. With learning of how layouts work, I've used CSS to help make certaain paragraphs and images align to a certain position in design. This part of CSS is utterly important to have because this is how you'd like to display your website.
